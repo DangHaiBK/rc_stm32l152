@@ -1,0 +1,3 @@
+../Core/Src/rx/rx.c:7:6:RX_ReadRaw	2
+../Core/Src/rx/rx.c:20:22:RX_ReadPwm	1
+../Core/Src/rx/rx.c:26:6:RX_ReadPulse	16

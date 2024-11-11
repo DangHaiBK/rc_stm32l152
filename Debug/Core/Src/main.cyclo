@@ -1,0 +1,8 @@
+../Core/Src/main.c:67:6:send_msg	2
+../Core/Src/main.c:78:6:send_number	1
+../Core/Src/main.c:85:6:send_short_number	1
+../Core/Src/main.c:97:5:main	2
+../Core/Src/main.c:168:6:SystemClock_Config	3
+../Core/Src/main.c:208:10:GetInputRxChannel1	3
+../Core/Src/main.c:239:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/main.c:259:6:Error_Handler	1

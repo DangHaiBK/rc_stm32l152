@@ -1,0 +1,4 @@
+../Core/Src/servo/../utils/utils.h:25:22:map	1
+../Core/Src/servo/servo.c:13:6:SERVO_writeMicroseconds	3
+../Core/Src/servo/servo.c:26:6:SERVO_write	4
+../Core/Src/servo/servo.c:43:6:SERVO_attach	2
